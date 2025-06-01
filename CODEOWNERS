@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @anon-legion
+/src/backend/database.py      @anon-legion
+/src/backend/routers/auth.py  @anon-legion
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @anon-legion
